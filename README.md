@@ -6,7 +6,7 @@
 
 <h2>Preview</h2>
 
-<p>You may want to explore <a href="https://ui-plus.blogspot.com.blogspot.com/?ref=gumroad" target="_blank">Demo blog</a> before making any purchase.</p>
+<p>You may want to explore <a href="https://ui-plus.blogspot.com" target="_blank">Demo blog</a> before making any purchase.</p>
 
 <h2>Changelogs</h2>
 
@@ -162,7 +162,7 @@
 
 <h3>Future Updates</h3>
 
-<p>By purchasing this product, you acknowledge that all future updates, if released, will be provided free of charge. However, we make no guarantees regarding the frequency or regularity of updates, nor do we commit to providing any updates in the future. Please ensure that you are fully satisfied with the current version of the product before making your purchase. You can view a demo of the current version at <a href="https://ui-plus.blogspot.com.blogspot.com/?ref=gumroad" target="_blank">plus-ui.blogspot.com</a>.</p>
+<p>By purchasing this product, you acknowledge that all future updates, if released, will be provided free of charge. However, we make no guarantees regarding the frequency or regularity of updates, nor do we commit to providing any updates in the future. Please ensure that you are fully satisfied with the current version of the product before making your purchase. You can view a demo of the current version at <a href="https://ui-plus.blogspot.com" target="_blank">plus-ui.blogspot.com</a>.</p>
 
 <h3>License and Usage Terms</h3>
 
